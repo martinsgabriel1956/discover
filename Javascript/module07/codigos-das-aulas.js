@@ -81,7 +81,9 @@ let array = new Array(
   
   console.log(array.length);
   
-  /* Aula 11 - Modulo 7 */
-    
+/* Aula 11 - Modulo 7 */
+  let word = "manipulação";
+  console.log(Array.from(word));
   
-  /* Aula 12 - Modulo 7 */
+/* Aula 12 - Modulo 7 */
+  
