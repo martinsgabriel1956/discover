@@ -50,4 +50,3 @@ elemento indexOf() === Para encontrar a posição de algum elemento no array
 
   console.log(index);
 ```
-
