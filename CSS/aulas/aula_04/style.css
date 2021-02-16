@@ -1,0 +1,17 @@
+* { /* Seletor global */
+  margin: 0;
+}
+
+#container { /* Seletor por id */
+  width: 200px;
+}
+
+.m-40 { /* Seletor por classe */
+  margin: 40px;
+}
+
+h1, h2 { /* Com a utilização de virgula, podemos agrupar seletores */
+  color: green;
+  font-size: 60px;
+  background: gray;
+}
