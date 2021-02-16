@@ -1,0 +1,7 @@
+div {
+  font-size: 16px;
+}
+
+p {
+  font-size: 1.6em; /* O seletor p por ser um elemento filho, ele irá fazer o calculo da propriedade em questão do elemento pai(div) * a do elemento filho */
+}

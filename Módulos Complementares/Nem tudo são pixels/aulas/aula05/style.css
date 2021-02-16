@@ -1,0 +1,5 @@
+.box {
+  height: 300px;
+  width: 400px;
+  background: url('http://source.unsplash.com/random') no-repeat left top 50px;
+}
