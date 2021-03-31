@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Aula 2
+div {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  margin: 10%;
+  padding: 0 20px;
+}
+
+*/
+
+/* Aula 3
+  div {
+    border: 1px solid red;
+    height: 100px;
+    width: 10px;
+    display: inline;
+  }
+
+  span {
+    width: 10px;
+    height: 100px;
+    border: 1px solid green;
+    display: block;
+    
+    div {
+      margin: 20px;
+      border: 1px solid red;
+    }
+    
+    span {
+      margin: 20px;
+      border: 1px solid red;
+    }
+  }
+*/
+
+
+/* Aula 4
+  div, section {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+
+    margin: 8px 0 23px 17px;
+    margin: 10px auto;
+  }
+
+  div {
+    margin-bottom: 8px;
+  }
+
+  section {
+    margin-bottom: 8px;
+  }
+*/
+
+/* Aula 5
+  div, section {
+    border: 1px solid red;
+  
+  padding: 10px 2em 8px 50%;
+  }
+*/
+
+/* Aula 6
+  div, section {
+    width: 100px;
+    height: 100px;
+    margin: 20% auto;
+
+    border: 10px solid red;
+    outline: solid yellow;
+  }
+*/
